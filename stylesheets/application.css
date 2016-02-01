@@ -97,6 +97,13 @@ h2 {
     padding: 8px 20px 35px
 }
 
+@media all and (max-width: 899px)
+{
+	#header {
+		background-color: #e3dd7c
+	}
+}
+
 #header > h1 {
     font-family: "helvetica neue", helvetica, arial, sans-serif;
     /* text-transform: uppercase; */
@@ -146,7 +153,7 @@ h2 {
 }
 
 #main-menu li > a {
-    color: black;
+        color: black;
 	background: 0 0;
 }
 
@@ -1136,7 +1143,7 @@ BODY {
     top: 100%;
     right: 0;
     z-index: 11;
-    background: #3d454c;
+    background: #E7DB86;
     overflow: hidden;
     height: 0
 }
