@@ -576,7 +576,7 @@ select {
 
 @-moz-document url-prefix() {
     select {
-        padding: 4px 0 4px 5px
+        padding: 4px 15px 4px 5px
     }
 }
 
@@ -1124,8 +1124,8 @@ BODY {
 }
 
 #header .mm_burger_caller {
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 20px;
     float: right;
     margin: 5px 0 5px 20px;
     cursor: pointer;
